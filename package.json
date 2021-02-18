@@ -1,6 +1,6 @@
 {
   "name": "html-sloppy-escaper",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "It's exactly like html-escaper but it doesn't throw with null/undefined",
   "main": "./cjs/index.js",
   "scripts": {
